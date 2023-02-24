@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ncfoa
-- 👀 I’m interested in Software Security
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on DevSecOps projects
+- 👋 Hi, I’m @ncfoa - Firas Harbaoui
+- 👀 I’m interested in Software Security 
+- 🌱 I’m currently PhD student in Software Engineering
+- 💞️ I’m looking to collaborate on Software Security related projects
 - 📫 reach out  
 
 <!---
